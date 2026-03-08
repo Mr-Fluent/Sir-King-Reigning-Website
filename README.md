@@ -122,7 +122,7 @@ margin-top:40px;
 <div class="card">
 <img src="https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a">
 <div class="card-content">
-<h3>Audi</h3>
+<h3>Audi R8</h3>
 <p class="price">$220,000</p>
 </div>
 </div>
