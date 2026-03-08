@@ -124,6 +124,7 @@ margin-top:40px;
 <div class="card-content">
 <h3>Audi R8</h3>
 <p class="price">$220,000</p>
+ <button>Buy Now</button>
 </div>
 </div>
 
@@ -132,6 +133,7 @@ margin-top:40px;
 <div class="card-content">
 <h3>Porsche 911</h3>
 <p class="price">$350,000</p>
+ <button>Buy Now</button>
 </div>
 </div>
 
@@ -140,6 +142,7 @@ margin-top:40px;
 <div class="card-content">
 <h3>Rolls Royce Ghost</h3>
 <p class="price">$450,000</p>
+ <button>Buy Now</button>
 </div>
 </div>
 
@@ -147,6 +150,7 @@ margin-top:40px;
 <img src="https://images.unsplash.com/photo-1626668893632-6f3a4466d22f" alt="Rolls Royce">
 <h3>Dodge Hellcat</h3>
 <p class="price">$600,000</p>
+ <button>Buy Now</button>
 </div>
 
 <div class="card">
@@ -154,6 +158,7 @@ margin-top:40px;
 <div class="card-content">
 <h3>Lamborghini Aventador</h3>
 <p class="price">$500,000</p>
+ <button>Buy Now</button>
 </div>
 </div>
 
@@ -182,6 +187,7 @@ margin-top:40px;
 <img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c" alt="New York Penthouse">
 <h3>New York City Penthouse</h3>
 <p class="price">$8,500,000</p>
+ <button>Buy Now</button>
 </div>
 
 <div class="card">
@@ -189,6 +195,7 @@ margin-top:40px;
 <div class="card-content">
 <h3>Beach Resort</h3>
 <p class="price">$3,200,000</p>
+ <button>Buy Now</button>
 </div>
 </div>
 
@@ -197,6 +204,7 @@ margin-top:40px;
 <div class="card-content">
 <h3>Modern House with Basketball Court</h3>
 <p class="price">$4,100,000</p>
+ <button>Buy Now</button>
 </div>
 </div>
 
@@ -204,6 +212,7 @@ margin-top:40px;
 <img src="https://images.unsplash.com/photo-1600607688969-a5bfcd646154" alt="Modern House with Garage">
 <h3>Modern House with Large Garage</h3>
 <p class="price">$2,900,000</p>
+ <button>Buy Now</button>
 </div>
 
 </div>
