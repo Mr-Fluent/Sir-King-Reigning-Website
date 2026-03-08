@@ -130,7 +130,7 @@ margin-top:40px;
 <div class="card">
 <img src="https://images.unsplash.com/photo-1592853625601-bb9d23da12fc">
 <div class="card-content">
-<h3>Ferrari</h3>
+<h3>Porsche 911</h3>
 <p class="price">$350,000</p>
 </div>
 </div>
