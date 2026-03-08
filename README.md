@@ -156,6 +156,14 @@ Luxury Estates & Exclusive Cars
 <div class="grid">
 
 <div class="card">
+<img src="https://images.unsplash.com/photo-1621135802920-133df287f89c">
+<div class="card-content">
+<h3>Lamborghini Aventador</h3>
+<p class="price">$500,000</p>
+</div>
+</div>
+
+<div class="card">
 <img src="https://images.unsplash.com/photo-1501183638710-841dd1904471">
 <div class="card-content">
 <h3>New York City Penthouse</h3>
