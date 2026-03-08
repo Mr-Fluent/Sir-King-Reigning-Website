@@ -152,6 +152,7 @@ margin-top:40px;
 <p class="price">$600,000</p>
  <button>Buy Now</button>
 </div>
+</div>
 
 <div class="card">
 <img src="https://images.unsplash.com/photo-1621135802920-133df287f89c">
