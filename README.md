@@ -164,7 +164,7 @@ Luxury Estates & Exclusive Cars
 </div>
 
 <div class="card">
-<img src="https://images.unsplash.com/photo-1501183638710-841dd1904471">
+<img src="https://images.unsplash.com/photo-1505691938895-1758d7feb511" alt="NYC Penthouse interior with balcony view" width="100%">
 <div class="card-content">
 <h3>New York City Penthouse</h3>
 <p class="price">$8,500,000</p>
