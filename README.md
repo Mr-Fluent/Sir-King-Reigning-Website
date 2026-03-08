@@ -139,7 +139,7 @@ Luxury Estates & Exclusive Cars
 
 <div class="card">
 <img src="https://images.unsplash.com/photo-1626668893632-6f3a4466d22f" alt="Rolls Royce">
-<h3>Rolls Royce</h3>
+<h3>Dodge Hellcat</h3>
 <p class="price">$600,000</p>
 </div>
 
